@@ -1,0 +1,31 @@
+[[Category:Tutorials]] [[Category:Language]]
+Haskell is a computer programming language.  In particular, it is a
+'' [[Polymorphism|polymorphically]] [[typing|statically typed]], [[Lazy evaluation|lazy]], [[functional programming|purely functional]] '' language,
+quite different from most other programming languages. 
+The language is named for [[Haskell Brooks Curry]], whose work in mathematical logic serves as a foundation for
+functional languages.   
+Haskell is based on the ''[[lambda calculus]]'', hence the lambda we use as a logo.
+
+
+==Why use Haskell?==
+Writing large software systems that
+work is difficult and expensive.  Maintaining those systems is even
+more difficult and expensive.  Functional programming languages, such
+as Haskell, can make it easier and cheaper.  For example, a new user who
+wrote a small relational DBMS in Haskell had this to say:
+<blockquote>
+WOW!  I basically wrote this without testing just thinking about my
+program in terms of transformations between types.  I wrote the
+test/example code and had almost no implementation errors in the code!  The
+compiler/type-system is really really good at preventing you from
+making coding mistakes!  I've never in my life had a block of code
+this big work on the first try.  I am WAY impressed.
+</blockquote>
+Even if you are not in a position to use Haskell in your programming projects, learning Haskell can make you a better programmer in any language.  
+<blockquote>
+I learned Haskell a couple of years ago, having previously programmed in
+Python and (many) other languages.  Recently, I've been using Python for a
+project (the choice being determined by both technical and non-technical
+issues), and find my Python programming style is now heavily influenced (for the better, I hope ;-) by my Haskell programming experience.<br><br>
+Graham Klyne
+</blockquote>
